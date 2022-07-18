@@ -74,11 +74,11 @@ Here are some ideas to get you started:
 
 ## Project
 
-추가 예정
+### 단톡 프로젝트
 
-Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
+[GroupTalk_project](https://github.com/chlrkdgml77/GroupTalk_project.git)
 
-Install the dependencies and devDependencies and start the server.
+단톡을 위한 웹 사이트를 제작하는 프로젝트입니다.
 
 ```sh
 cd dillinger
