@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **chlrkdgml77/chlrkdgml77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -48,29 +47,27 @@ Here are some ideas to get you started:
 
 - Java - 자바의 기본문법과, 최신 경향을 학습
     - [자바의 정석](http://www.yes24.com/Product/Goods/24259565)
-    - [모던 자바 인 액션](http://www.yes24.com/Product/Goods/77125987)
-    - [이펙티브 자바](http://www.yes24.com/Product/Goods/65551284)
+    - [모던 자바 인 액션]
+    - [이펙티브 자바]
 - Spring - 다양한 미니프로젝트 진행
-   - [스프링-입문](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8)
-   - [스프링-기본](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8)
-   - [모든 개발자를 위한 HTTP 웹 기본 지식](https://www.inflearn.com/course/http-%EC%9B%B9-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
-   - [스프링 MVC 1, 2](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-1)
-   - [스프링 DB 1, 2](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-db-1)
-   - [JPA](https://www.inflearn.com/roadmaps/149)
+   - [스프링-기본](https://github.com/chlrkdgml77/spring_basic)
+   - [모든 개발자를 위한 HTTP 웹 기본 지식](https://github.com/chlrkdgml77/HTTP)
+   - [스프링 MVC 1, 2]
+   - [스프링 DB 1, 2]
+   - [JPA]
 - NodeJS - 프로젝트(나중에 추가)
-    - [NodeJS 완벽 가이드](https://www.udemy.com/course/nodejs-mvc-rest-apis-graphql-deno/)
-- [asdf] - qwer
+    - [NodeJS 완벽 가이드]
 
 
 ### Front-End
 
-- HTML, CSS - 구글검색, 국비과정을 통해 배운 내용으로 다양한 미니프로젝트 진행
+- [HTML, CSS](https://github.com/chlrkdgml77/HTML-CSS)
 - JavaScript - HTML+CSS+JS를 이용해 웹 사이트 구현
-    - [JavaScript 완벽 가이드](https://www.udemy.com/course/javascript-zw/)
+    - [JavaScript](https://github.com/chlrkdgml77/JavaScript)
 - TypeScript - (나중에 수정)
-    - [Typescript](https://www.udemy.com/course/best-typescript-21/)
+    - [Typescript]
 - React - (나중에 수정)
-    - [React 완벽 가이드](https://www.udemy.com/course/best-react/)
+    - [React 완벽 가이드](https://github.com/chlrkdgml77/React_Practice)
 
 
 
