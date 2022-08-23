@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 - TypeScript - (나중에 수정)
     - [Typescript]
 - React - (나중에 수정)
-    - [React 완벽 가이드](https://github.com/chlrkdgml77/React_Practice)
+    - [React 완벽 가이드](https://github.com/chlrkdgml77/React)
 
 
 
