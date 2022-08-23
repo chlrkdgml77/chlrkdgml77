@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ### Back-End
 
 - Java - 자바의 기본문법과, 최신 경향을 학습
-    - [자바의 정석](http://www.yes24.com/Product/Goods/24259565](https://github.com/chlrkdgml77/Java_Study.git)
+    - [자바의 정석]([http://www.yes24.com/Product/Goods/24259565](https://github.com/chlrkdgml77/Java_Study.git](https://github.com/chlrkdgml77/Java_Study))
     - [모던 자바 인 액션]
     - [이펙티브 자바]
 - Spring - 다양한 미니프로젝트 진행
